@@ -11,7 +11,7 @@ brew install chromedriver \
 ```
 
 ```
-go mod init go-scrape
+go mod init
 go get github.com/sclevine/agouti
 ```
 
